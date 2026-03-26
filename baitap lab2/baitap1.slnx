@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="bai1/bai1.csproj" Id="e411300d-d3dc-4c47-9ff0-02148f608d6d" />
+  <Project Path="bai2/bai2.csproj" Id="0bc4bbb6-cc4a-4cd8-a2a3-1d3e34de902c" />
+  <Project Path="bai3/bai3.csproj" Id="66d94bcc-523d-444f-a929-0e1b947b8163" />
+  <Project Path="bai4/bai4.csproj" Id="c95aa113-a609-49c9-a3f3-e1ba93f00731" />
+  <Project Path="bai5/bai5.csproj" Id="03adcbfa-baae-4077-a5e4-4902e312c240" />
+</Solution>
