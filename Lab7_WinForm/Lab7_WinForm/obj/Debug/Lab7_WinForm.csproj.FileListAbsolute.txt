@@ -1,0 +1,9 @@
+C:\Users\khoad\source\repos\Lab7_WinForm\Lab7_WinForm\obj\Debug\Lab7_WinForm.csproj.AssemblyReference.cache
+C:\Users\khoad\source\repos\Lab7_WinForm\Lab7_WinForm\obj\Debug\Lab7_WinForm.Properties.Resources.resources
+C:\Users\khoad\source\repos\Lab7_WinForm\Lab7_WinForm\obj\Debug\Lab7_WinForm.csproj.GenerateResource.cache
+C:\Users\khoad\source\repos\Lab7_WinForm\Lab7_WinForm\obj\Debug\Lab7_WinForm.csproj.CoreCompileInputs.cache
+C:\Users\khoad\source\repos\Lab7_WinForm\Lab7_WinForm\bin\Debug\Lab7_WinForm.exe.config
+C:\Users\khoad\source\repos\Lab7_WinForm\Lab7_WinForm\bin\Debug\Lab7_WinForm.exe
+C:\Users\khoad\source\repos\Lab7_WinForm\Lab7_WinForm\bin\Debug\Lab7_WinForm.pdb
+C:\Users\khoad\source\repos\Lab7_WinForm\Lab7_WinForm\obj\Debug\Lab7_WinForm.exe
+C:\Users\khoad\source\repos\Lab7_WinForm\Lab7_WinForm\obj\Debug\Lab7_WinForm.pdb
